@@ -60,6 +60,7 @@ great_expectations suite edit btest
 
 ```
 
+
 ### Creación de Checkpoint
 
 ```
@@ -74,3 +75,8 @@ great_expectations checkpoint new
 great_expectations run
 
 ```
+
+### Documentación de las validaciones
+
+https://greatexpectations.io/expectations/?viewType=Summary
+
