@@ -53,6 +53,13 @@ great_expectations suite new
 
 ```
 
+### Edición de la suite 
+
+```
+great_expectations suite edit btest
+
+```
+
 ### Creación de Checkpoint
 
 ```
