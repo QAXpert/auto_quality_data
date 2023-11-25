@@ -7,9 +7,9 @@ Este repositorio se centra en la automatización del proceso de generación de u
 Como administrador del portal, quiero generar un reporte con los datos específicos de los clientes del Banco QAX para realizar los envíos mensuales de notificaciones de sus balances.
 
 **Criterios de Aceptación:**
-- El reporte debe incluir la columna "Age" que solo permita valores numéricos y esté restringida al rango de 18 a 100 años.
-- La columna "Mouth" (Mes) debe contener exactamente 3 caracteres, representando el mes de la notificación.
-- La columna "Housing" solo puede tener dos respuestas posibles: "Yes" o "No", indicando si el cliente tiene vivienda propia o no.
+- El reporte debe incluir la columna "age" que solo permita valores numéricos y esté restringida al rango de 18 a 100 años.
+- La columna "month" (Mes) debe contener exactamente 3 caracteres, representando el mes de la notificación.
+- La columna "housing" solo puede tener dos respuestas posibles: "yes" o "no", indicando si el cliente tiene vivienda propia o no.
 
 
 ### Formato del CSV para Generación del Reporte
