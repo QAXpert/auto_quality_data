@@ -45,6 +45,10 @@ great_expectations init
 great_expectations datasource new
 ```
 
+```
+great_expectations datasource list
+```
+
 
 ### Creación de Suite
 
@@ -53,28 +57,30 @@ great_expectations suite new --no-jupyter
 
 ```
 
-### Edición de la suite 
+```
+great_expectations suite list
 
 ```
-great_expectations suite edit btest
-
-```
-
 
 ### Creación de Checkpoint
 
 ```
-great_expectations checkpoint new
-
+great_expectations checkpoint new run_testing_bank_qax
 ```
 
+```
+great_expectations checkpoint list
+```
 
 ### Ejecución
 
 ```
-great_expectations run
+great_expectations checkpoint run run_testing_bank_qax
 
 ```
+
+El archivo de reporte que almacenado: 
+great_expectations/uncommitted/data_docs/local_site/index.html
 
 ### Documentación de las validaciones
 
