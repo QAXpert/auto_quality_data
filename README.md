@@ -49,7 +49,7 @@ great_expectations datasource new
 ### Creación de Suite
 
 ```
-great_expectations suite new
+great_expectations suite new --no-jupyter
 
 ```
 
