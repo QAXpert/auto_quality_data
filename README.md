@@ -30,7 +30,7 @@ Este repositorio se centra en la automatización de pruebas de calidad de datos 
 #### Instalación
 ```
 pip3 install great_expectations
-greate_expectations --version
+great_expectations --version
 ```
 
 ### Creacion del proyecto
